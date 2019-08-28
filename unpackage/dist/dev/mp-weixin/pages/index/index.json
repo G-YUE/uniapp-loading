@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "loading": "/components/xuan-loading/xuan-loading"
+  }
+}
